@@ -12,6 +12,8 @@ A 2D Action platformer, developed for the Ludum Dare 53 game jam. You play as a 
 
 # What I Learned
 
-- How to implement a dialogue system.
+- How to work under time pressure.
+- Making a complete game in Unity and publishing it.
+- How to implement a dialogue system in Unity.
 - How to implement melee combat in Unity.
 - Importance of using a good color palette for art.
